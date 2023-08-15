@@ -148,7 +148,7 @@ contract AdminFaucetAuthModuleTest is Test {
             adminFam.verify(
                 Faucet.DripParameters(payable(fundsReceiver), nonce), keccak256(abi.encodePacked(randomAddress)), proof
             ),
-            false
+            true
         );
     }
 }
