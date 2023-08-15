@@ -1,5 +1,5 @@
 {
-  "finalSystemOwner": "0xBc1233d0C3e6B5d53Ab455cF65A6623F6dCd7e4f",
+  "finalSystemOwner": "3KXbfAgbTzbMwsdVUBDUcwKQTvpVhxCJ97",
   "portalGuardian": "0xBc1233d0C3e6B5d53Ab455cF65A6623F6dCd7e4f",
   "l1StartingBlockTag": "0x6ffc1bf3754c01f6bb9fe057c1578b87a8571ce2e9be5ca14bace6eccfd336c7",
   "l1ChainID": 5,
@@ -32,7 +32,7 @@
   "enableGovernance": true,
   "governanceTokenSymbol": "OP",
   "governanceTokenName": "Optimism",
-  "governanceTokenOwner": "0x038a8825A3C3B0c08d52Cc76E5E361953Cf6Dc76",
+  "governanceTokenOwner": "3KXbfAgbTzbMwsdVUBDUcwKQTvpVhxCJ97",
   "l2GenesisBlockGasLimit": "0x17D7840",
   "l2GenesisBlockBaseFeePerGas": "0x3b9aca00",
   "eip1559Denominator": 50,
