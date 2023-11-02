@@ -25,4 +25,5 @@
   "eslint.format.enable": true,
   "editorconfig.generateAuto": true,
   "files.trimTrailingWhitespace": true
+
 }
