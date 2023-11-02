@@ -23,6 +23,6 @@
   ],
   "eslint.nodePath": "./node_modules/eslint/bin/",
   "eslint.format.enable": true,
-  "editorconfig.generateAuto": false,
+  "editorconfig.generateAuto": true,
   "files.trimTrailingWhitespace": true
 }
